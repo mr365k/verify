@@ -1,0 +1,21 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/_project/index.js": "pages/_project/index.js",
+    "pages/_project/sales.js": "pages/_project/sales.js",
+    "pages/index.js": "pages/index.js",
+    "pages/manage.js": "pages/manage.js",
+    "pages/projects/index.js": "pages/projects/index.js",
+    "pages/twitter/callback.js": "pages/twitter/callback.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/_project/index.js": "pages/_project/index.js.map",
+    "pages/_project/sales.js": "pages/_project/sales.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/manage.js": "pages/manage.js.map",
+    "pages/projects/index.js": "pages/projects/index.js.map",
+    "pages/twitter/callback.js": "pages/twitter/callback.js.map",
+    "server.js": "server.js.map"
+  }
+}

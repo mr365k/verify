@@ -1,0 +1,44 @@
+[
+  {
+    "name": "manage",
+    "path": "/manage",
+    "component": "C:\\\\Users\\\\Z440\\\\Desktop\\\\cryptoprojects\\\\solana-discord-verification-bot-main\\\\solana-discord-verification-bot-main\\\\pages\\\\manage.vue",
+    "chunkName": "pages/manage",
+    "_name": "_3ac6a66d"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "C:\\\\Users\\\\Z440\\\\Desktop\\\\cryptoprojects\\\\solana-discord-verification-bot-main\\\\solana-discord-verification-bot-main\\\\pages\\\\projects\\\\index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_34423b40"
+  },
+  {
+    "name": "twitter-callback",
+    "path": "/twitter/callback",
+    "component": "C:\\\\Users\\\\Z440\\\\Desktop\\\\cryptoprojects\\\\solana-discord-verification-bot-main\\\\solana-discord-verification-bot-main\\\\pages\\\\twitter\\\\callback.vue",
+    "chunkName": "pages/twitter/callback",
+    "_name": "_2e015bc0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Z440\\\\Desktop\\\\cryptoprojects\\\\solana-discord-verification-bot-main\\\\solana-discord-verification-bot-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7a52b37a"
+  },
+  {
+    "name": "project",
+    "path": "/:project",
+    "component": "C:\\\\Users\\\\Z440\\\\Desktop\\\\cryptoprojects\\\\solana-discord-verification-bot-main\\\\solana-discord-verification-bot-main\\\\pages\\\\_project\\\\index.vue",
+    "chunkName": "pages/_project/index",
+    "_name": "_12a7c5e0"
+  },
+  {
+    "name": "project-sales",
+    "path": "/:project/sales",
+    "component": "C:\\\\Users\\\\Z440\\\\Desktop\\\\cryptoprojects\\\\solana-discord-verification-bot-main\\\\solana-discord-verification-bot-main\\\\pages\\\\_project\\\\sales.vue",
+    "chunkName": "pages/_project/sales",
+    "_name": "_3dd0391a"
+  }
+]
